@@ -53,3 +53,4 @@ scheduler.add_processo(8,8)
 scheduler.SJF_scheduling()
 
 #lambda é uma função anônima que não necessita de função definida anteriormente e mais comumente utilizada para usos de vez única.
+#o arquivo que você executa é considerado como arquivo principal main e os outros arquivos referenciados são considerados módulos.
